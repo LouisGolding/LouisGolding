@@ -21,7 +21,7 @@ Reinforcement learning
 
 
 ## 💬 Ask me about:
-Python, R-Studio, ML, latest tceh breakthroughs<br>
+Python,  ML, latest tech breakthroughs<br>
 <br>
 <br>
 
