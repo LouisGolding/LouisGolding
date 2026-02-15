@@ -3,7 +3,7 @@
 
 
 ## 🔭 I’m currently working on:
-World Models, NLP tasks, Comp Vision tasks<br>
+World Models, NLP tasks, Comp Vision tasks, building webapps<br>
 <br>
 
 ## 👯 I’m looking to collaborate on:
@@ -15,7 +15,8 @@ AI-ML projects <br>
 
 ## 🌱 I’m currently exploring:
 Libraries such as TensorFlow & scikit-learn <br>
-Reinforcement learning
+RL 
+
 <br>
 <br>
 
@@ -25,6 +26,4 @@ Python,  ML, latest tech breakthroughs<br>
 <br>
 <br>
 
-## ⚡ Fun fact:
-My dream is to work in AI research for Europeean institutions! <br>
-<br>
+
